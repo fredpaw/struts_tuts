@@ -1,0 +1,26 @@
+package org.zjh.struts;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.apache.struts.action.Action;
+import org.apache.struts.action.ActionForm;
+import org.apache.struts.action.ActionForward;
+import org.apache.struts.action.ActionMapping;
+
+public class DynaActionForwardTestAction extends Action {
+
+	@Override
+	public ActionForward execute(ActionMapping mapping, ActionForm form,
+			HttpServletRequest request, HttpServletResponse response)
+			throws Exception {
+		int page = Integer.parseInt(request.getParameter("page"));
+		if (page == 1){
+			mapping.findForward("page1");
+		}
+		if (page == 2){
+			mapping.findForward("page2");
+		}
+	}
+
+}

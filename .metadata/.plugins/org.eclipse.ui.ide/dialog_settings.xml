@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Dropbox\workspace\Struts\struts_taglib"/>
+			<item value="D:\Dropbox\workspace\Struts\struts_login"/>
+			<item value="D:\Dropbox\workspace\Struts\struts_actionform"/>
+			<item value="D:\Dropbox\workspace\Struts\struts_calc"/>
+			<item value="D:\Dropbox\workspace\Struts\struts_actionforward"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

@@ -1,0 +1,17 @@
+INDEX VERSION 1.127
+C:\Users\Fred\Documents\GitHub\struts_tuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\271404475.index
+\struts_actionmapping\src
+C:\Users\Fred\Documents\GitHub\struts_tuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\275141403.index
+\struts_actionform\WebContent\WEB-INF\src
+C:\Users\Fred\Documents\GitHub\struts_tuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3872715269.index
+\struts_calc\WebContent\WEB-INF\src
+C:\Users\Fred\Documents\GitHub\struts_tuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2899226748.index
+\struts_actionmapping\src
+C:\Users\Fred\Documents\GitHub\struts_tuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1749918066.index
+\struts_actionforward\WebContent\WEB-INF\src
+C:\Users\Fred\Documents\GitHub\struts_tuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2724582164.index
+\struts_actionmapping\src
+C:\Users\Fred\Documents\GitHub\struts_tuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3093037092.index
+\struts_login\WebContent\WEB-INF\src
+C:\Users\Fred\Documents\GitHub\struts_tuts\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3482107888.index
+\struts_taglib\WebContent\WEB-INF\src

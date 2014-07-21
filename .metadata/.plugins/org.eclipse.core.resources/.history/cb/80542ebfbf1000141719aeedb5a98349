@@ -1,0 +1,7 @@
+package struts_actionmapping;
+
+import org.apache.struts.action.Action;
+
+public class InputTestAction extends Action {
+
+}
